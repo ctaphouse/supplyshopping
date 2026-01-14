@@ -2,117 +2,161 @@
     "version": "2.0",
     "categories": [
         {
-            "id": "cat_office",
-            "name": "Office Supplies",
-            "color": "#3b82f6",
+            "id": "cat_dental",
+            "name": "Dental",
+            "color": "#06b6d4",
             "sortOrder": 1,
             "items": [
-                {"id": "item_001", "name": "Pens (Blue)", "notes": "Box of 12", "isOnShoppingList": false, "checked": false},
-                {"id": "item_002", "name": "Pens (Black)", "notes": "Box of 12", "isOnShoppingList": false, "checked": false},
-                {"id": "item_003", "name": "Pencils", "notes": "#2 HB", "isOnShoppingList": false, "checked": false},
-                {"id": "item_004", "name": "Highlighters", "notes": "Assorted colors", "isOnShoppingList": false, "checked": false},
-                {"id": "item_005", "name": "Sticky Notes", "notes": "3x3 inch, yellow", "isOnShoppingList": false, "checked": false},
-                {"id": "item_006", "name": "Paper Clips", "notes": "Standard size", "isOnShoppingList": false, "checked": false},
-                {"id": "item_007", "name": "Stapler", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_008", "name": "Staples", "notes": "Standard", "isOnShoppingList": false, "checked": false},
-                {"id": "item_009", "name": "Binder Clips", "notes": "Assorted sizes", "isOnShoppingList": false, "checked": false},
-                {"id": "item_010", "name": "Notebooks", "notes": "College ruled", "isOnShoppingList": false, "checked": false},
-                {"id": "item_011", "name": "Legal Pads", "notes": "Yellow, 8.5x11", "isOnShoppingList": false, "checked": false},
-                {"id": "item_012", "name": "File Folders", "notes": "Manila, letter size", "isOnShoppingList": false, "checked": false},
-                {"id": "item_013", "name": "Envelopes", "notes": "#10 business", "isOnShoppingList": false, "checked": false},
-                {"id": "item_014", "name": "Tape", "notes": "Scotch tape", "isOnShoppingList": false, "checked": false},
-                {"id": "item_015", "name": "Scissors", "notes": "", "isOnShoppingList": false, "checked": false}
+                {"id": "item_001", "name": "Dental floss", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_002", "name": "Mouthwash", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_003", "name": "Toothbrush heads", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_004", "name": "Toothpaste", "notes": "", "isOnShoppingList": false, "checked": false}
             ]
         },
         {
-            "id": "cat_cleaning",
-            "name": "Cleaning Supplies",
+            "id": "cat_general_cleaner",
+            "name": "General Cleaner",
             "color": "#22c55e",
             "sortOrder": 2,
             "items": [
-                {"id": "item_016", "name": "All-Purpose Cleaner", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_017", "name": "Glass Cleaner", "notes": "Windex", "isOnShoppingList": false, "checked": false},
-                {"id": "item_018", "name": "Disinfecting Wipes", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_019", "name": "Paper Towels", "notes": "8-pack", "isOnShoppingList": false, "checked": false},
-                {"id": "item_020", "name": "Trash Bags", "notes": "13 gallon", "isOnShoppingList": false, "checked": false},
-                {"id": "item_021", "name": "Bathroom Cleaner", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_022", "name": "Toilet Paper", "notes": "12 double rolls", "isOnShoppingList": false, "checked": false},
-                {"id": "item_023", "name": "Hand Soap", "notes": "Refill", "isOnShoppingList": false, "checked": false},
-                {"id": "item_024", "name": "Dish Soap", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_025", "name": "Sponges", "notes": "Multi-pack", "isOnShoppingList": false, "checked": false},
-                {"id": "item_026", "name": "Mop Refills", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_027", "name": "Broom", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_028", "name": "Dustpan", "notes": "", "isOnShoppingList": false, "checked": false}
+                {"id": "item_005", "name": "Ammonia", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_006", "name": "Bleach", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_007", "name": "Cleanser", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_008", "name": "Furniture cleaner", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_009", "name": "Hardwood floor cleaner", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_010", "name": "Toilet bowl cleaner", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_011", "name": "Toilet spray", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_012", "name": "Window cleaner", "notes": "", "isOnShoppingList": false, "checked": false}
             ]
         },
         {
-            "id": "cat_breakroom",
-            "name": "Break Room",
-            "color": "#f59e0b",
+            "id": "cat_general_supply",
+            "name": "General Supply",
+            "color": "#6366f1",
             "sortOrder": 3,
             "items": [
-                {"id": "item_029", "name": "Coffee", "notes": "Ground, medium roast", "isOnShoppingList": false, "checked": false},
-                {"id": "item_030", "name": "Coffee Filters", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_031", "name": "Tea Bags", "notes": "Assorted", "isOnShoppingList": false, "checked": false},
-                {"id": "item_032", "name": "Sugar", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_033", "name": "Creamer", "notes": "Non-dairy", "isOnShoppingList": false, "checked": false},
-                {"id": "item_034", "name": "Stirrers", "notes": "Wooden", "isOnShoppingList": false, "checked": false},
-                {"id": "item_035", "name": "Paper Cups", "notes": "Hot beverage, 12oz", "isOnShoppingList": false, "checked": false},
-                {"id": "item_036", "name": "Napkins", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_037", "name": "Plates", "notes": "Paper, 9 inch", "isOnShoppingList": false, "checked": false},
-                {"id": "item_038", "name": "Plastic Utensils", "notes": "Forks, knives, spoons", "isOnShoppingList": false, "checked": false},
-                {"id": "item_039", "name": "Water Bottles", "notes": "24-pack", "isOnShoppingList": false, "checked": false},
-                {"id": "item_040", "name": "Snacks", "notes": "Assorted", "isOnShoppingList": false, "checked": false}
+                {"id": "item_013", "name": "Battery 9V", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_014", "name": "Battery AA", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_015", "name": "Battery AAA", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_016", "name": "Paper towel", "notes": "", "isOnShoppingList": false, "checked": false}
             ]
         },
         {
-            "id": "cat_tech",
-            "name": "Technology",
-            "color": "#8b5cf6",
+            "id": "cat_hair_care",
+            "name": "Hair Care",
+            "color": "#ec4899",
             "sortOrder": 4,
             "items": [
-                {"id": "item_041", "name": "AA Batteries", "notes": "24-pack", "isOnShoppingList": false, "checked": false},
-                {"id": "item_042", "name": "AAA Batteries", "notes": "24-pack", "isOnShoppingList": false, "checked": false},
-                {"id": "item_043", "name": "USB Cables", "notes": "USB-C", "isOnShoppingList": false, "checked": false},
-                {"id": "item_044", "name": "Power Strip", "notes": "6 outlet, surge protector", "isOnShoppingList": false, "checked": false},
-                {"id": "item_045", "name": "Printer Paper", "notes": "8.5x11, 500 sheets", "isOnShoppingList": false, "checked": false},
-                {"id": "item_046", "name": "Ink Cartridges", "notes": "Check printer model", "isOnShoppingList": false, "checked": false},
-                {"id": "item_047", "name": "Mouse Pad", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_048", "name": "Screen Cleaner", "notes": "Spray bottle", "isOnShoppingList": false, "checked": false},
-                {"id": "item_049", "name": "Compressed Air", "notes": "For keyboards", "isOnShoppingList": false, "checked": false},
-                {"id": "item_050", "name": "Flash Drives", "notes": "32GB", "isOnShoppingList": false, "checked": false}
+                {"id": "item_017", "name": "Hair conditioner", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_018", "name": "Hair shampoo", "notes": "", "isOnShoppingList": false, "checked": false}
             ]
         },
         {
-            "id": "cat_safety",
-            "name": "Safety & First Aid",
-            "color": "#ef4444",
+            "id": "cat_kitchen_cleaner",
+            "name": "Kitchen Cleaner",
+            "color": "#84cc16",
             "sortOrder": 5,
             "items": [
-                {"id": "item_051", "name": "First Aid Kit", "notes": "OSHA compliant", "isOnShoppingList": false, "checked": false},
-                {"id": "item_052", "name": "Band-Aids", "notes": "Assorted sizes", "isOnShoppingList": false, "checked": false},
-                {"id": "item_053", "name": "Hand Sanitizer", "notes": "Large pump bottle", "isOnShoppingList": false, "checked": false},
-                {"id": "item_054", "name": "Face Masks", "notes": "Disposable", "isOnShoppingList": false, "checked": false},
-                {"id": "item_055", "name": "Gloves", "notes": "Nitrile, various sizes", "isOnShoppingList": false, "checked": false},
-                {"id": "item_056", "name": "Eye Wash", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_057", "name": "Pain Relievers", "notes": "Ibuprofen, Acetaminophen", "isOnShoppingList": false, "checked": false},
-                {"id": "item_058", "name": "Antibiotic Ointment", "notes": "", "isOnShoppingList": false, "checked": false}
+                {"id": "item_019", "name": "Dishwasher detergent", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_020", "name": "Dishwashing liquid", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_021", "name": "Kitchen brush", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_022", "name": "Kitchen sponge", "notes": "", "isOnShoppingList": false, "checked": false}
             ]
         },
         {
-            "id": "cat_shipping",
-            "name": "Shipping & Mailing",
-            "color": "#06b6d4",
+            "id": "cat_kitchen_supply",
+            "name": "Kitchen Supply",
+            "color": "#f59e0b",
             "sortOrder": 6,
             "items": [
-                {"id": "item_059", "name": "Shipping Boxes", "notes": "Various sizes", "isOnShoppingList": false, "checked": false},
-                {"id": "item_060", "name": "Packing Tape", "notes": "Clear, 2 inch", "isOnShoppingList": false, "checked": false},
-                {"id": "item_061", "name": "Tape Dispenser", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_062", "name": "Bubble Wrap", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_063", "name": "Packing Peanuts", "notes": "", "isOnShoppingList": false, "checked": false},
-                {"id": "item_064", "name": "Shipping Labels", "notes": "4x6 inch", "isOnShoppingList": false, "checked": false},
-                {"id": "item_065", "name": "Padded Envelopes", "notes": "Various sizes", "isOnShoppingList": false, "checked": false},
-                {"id": "item_066", "name": "Postage Stamps", "notes": "Forever stamps", "isOnShoppingList": false, "checked": false}
+                {"id": "item_023", "name": "CO2 cylinder", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_024", "name": "Coffee filters", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_025", "name": "Plastic wrap", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_026", "name": "Wax paper", "notes": "", "isOnShoppingList": false, "checked": false}
+            ]
+        },
+        {
+            "id": "cat_nutritional",
+            "name": "Nutritional Supplement",
+            "color": "#14b8a6",
+            "sortOrder": 7,
+            "items": [
+                {"id": "item_027", "name": "Iron supplement", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_028", "name": "Multiple vitamin", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_029", "name": "Niacinamide", "notes": "", "isOnShoppingList": false, "checked": false}
+            ]
+        },
+        {
+            "id": "cat_personal_care",
+            "name": "Personal Care",
+            "color": "#8b5cf6",
+            "sortOrder": 8,
+            "items": [
+                {"id": "item_030", "name": "Band-aids", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_031", "name": "Cotton balls", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_032", "name": "Deodorant - F", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_033", "name": "Deodorant - M", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_034", "name": "Hydrogen peroxide", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_035", "name": "Isopropyl alcohol", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_036", "name": "Kleenex", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_037", "name": "Nail polish remover", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_038", "name": "Q-tips", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_039", "name": "Toilet paper", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_040", "name": "Vaseline", "notes": "", "isOnShoppingList": false, "checked": false}
+            ]
+        },
+        {
+            "id": "cat_pet",
+            "name": "Pet",
+            "color": "#f97316",
+            "sortOrder": 9,
+            "items": [
+                {"id": "item_041", "name": "Dog ear cleaner", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_042", "name": "Dog food", "notes": "", "isOnShoppingList": false, "checked": false}
+            ]
+        },
+        {
+            "id": "cat_shaving",
+            "name": "Shaving",
+            "color": "#3b82f6",
+            "sortOrder": 10,
+            "items": [
+                {"id": "item_043", "name": "Aftershave", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_044", "name": "Shaving cream", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_045", "name": "Shaving razor blade", "notes": "", "isOnShoppingList": false, "checked": false}
+            ]
+        },
+        {
+            "id": "cat_skin_care",
+            "name": "Skin Care",
+            "color": "#eab308",
+            "sortOrder": 11,
+            "items": [
+                {"id": "item_046", "name": "Bar soap", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_047", "name": "Body lotion", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_048", "name": "Body wash", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_049", "name": "Hand lotion", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_050", "name": "Liquid hand soap", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_051", "name": "Sunscreen", "notes": "", "isOnShoppingList": false, "checked": false}
+            ]
+        },
+        {
+            "id": "cat_washer_dryer",
+            "name": "Washer and Dryer",
+            "color": "#ef4444",
+            "sortOrder": 12,
+            "items": [
+                {"id": "item_052", "name": "Dryer sheets", "notes": "", "isOnShoppingList": false, "checked": false},
+                {"id": "item_053", "name": "Laundry detergent", "notes": "", "isOnShoppingList": false, "checked": false}
+            ]
+        },
+        {
+            "id": "cat_yard_garden",
+            "name": "Yard and Garden",
+            "color": "#22c55e",
+            "sortOrder": 13,
+            "items": [
+                {"id": "item_054", "name": "Brush Bags", "notes": "", "isOnShoppingList": false, "checked": false}
             ]
         }
     ],
