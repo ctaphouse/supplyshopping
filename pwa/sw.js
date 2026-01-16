@@ -1,5 +1,5 @@
 // Service Worker for Supply List PWA
-const CACHE_NAME = 'supply-list-v1';
+const CACHE_NAME = 'supply-list-v2';
 const ASSETS = [
     './',
     './index.html',
