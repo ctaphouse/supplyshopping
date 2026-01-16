@@ -1,0 +1,21 @@
+# Claude Code temporary files
+tmpclaude-*
+.claude/
+
+# Windows
+nul
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Node.js (if needed in future)
+node_modules/
+npm-debug.log
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
